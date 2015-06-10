@@ -2,7 +2,7 @@ package goworker
 
 import (
 	"github.com/cihub/seelog"
-	"github.com/youtube/vitess/go/pools"
+	"github.com/delectable/pools"
 	"os"
 	"strconv"
 	"sync"
