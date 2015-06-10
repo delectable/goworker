@@ -3,7 +3,7 @@ package goworker
 import (
 	"errors"
 	"github.com/garyburd/redigo/redis"
-	"github.com/youtube/vitess/tree/master/go/pools"
+	"github.com/youtube/vitess/go/pools"
 	"net/url"
 	"time"
 )
